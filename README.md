@@ -8,4 +8,4 @@ Apresentacao.pdf é a apresentação
 
 index. html - arquivo da home do site
 
-Source, img, joao, js, login, sass - Pastass para a funcionalidade do site
+Source, img, joao, js, login, sass, claudia, css, fonts - Pastass para a funcionalidade do site
